@@ -1,6 +1,6 @@
 /*
 Author: Isaac Benson
-Github: IsaacBensonUMBC
+Github: EggsOnToast1
 Last Updated: 1/23/2025
 Purpose: Arduino code for muscle vibrator with drawable arbitrary forcing function
 Credit: Some code from Elegoo_TFTLCD examples (https://github.com/Erutan409/Elegoo_TFTLCD) taken for touchscreen controls and that code is under the MIT license. All other code is original.
